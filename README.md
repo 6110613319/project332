@@ -22,5 +22,5 @@
 * Template Pattern
     - จ่ายเงิน
 ### Clip Present
-![VDO](https://youtu.be/0ahMffVJGm4)
+[VDO](https://youtu.be/0ahMffVJGm4)
 
